@@ -1,6 +1,6 @@
 {
   "name": "fast-catch-linashen",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "fast-cache",
   "main": "src/index.js",
   "directories": {
