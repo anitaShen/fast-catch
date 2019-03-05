@@ -9,7 +9,7 @@ avr cache = new FC();
 ##设置
 
 ```js
-cache.set('a',100);
+cache.set('a',200);
 ```
 
 ##获取
